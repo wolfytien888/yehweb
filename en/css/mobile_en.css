@@ -1,0 +1,63 @@
+.sloganBox p{
+	text-transform:uppercase;
+	}
+@media screen and (max-width: 1800px) {
+		.bannerSlogan1 .sloganBox{
+			right: 25%;
+			}
+	}
+@media screen and (max-width: 1668px) {
+	.bannerSlogan2 .sloganBox{
+		left:30%;
+		}
+	}
+@media screen and (max-width: 1440px) {
+	.bannerSlogan1 .sloganBox{
+		right: 20%;
+		}
+	}
+@media screen and (max-width: 1366px) {
+	.bannerSlogan2 .sloganBox{
+		left:26%;
+		}
+	}
+@media screen and (max-width: 1242px) {
+	.bannerSlogan1 .sloganBox{
+		right: 15%;
+		}
+	}
+@media screen and (max-width: 1152px) {
+	.bannerSlogan1 .sloganBox{
+		right: 12%;
+		}
+	.bannerSlogan2 .sloganBox{
+		left:20%;
+		}
+	.logoText h1{
+		display: none;
+		}
+	}
+@media screen and (max-width: 1080px) {	
+	.bannerSlogan1 .sloganBox{
+		right: 10%;
+		}
+	}
+@media screen and (max-width: 834px) {
+	.sloganBox div{
+		font-size: 120%;
+		}
+	.bannerSlogan2 .sloganBox{
+		left:50%;
+		}
+	}
+@media screen and (max-width: 828px) {
+	.bannerSlogan1 .sloganBox{
+		right: 8%;
+		}
+	}
+@media screen and (max-width: 390px) {
+	.sloganBox div{
+		line-height: 1.4rem;
+		padding: 0 30px;
+		}
+	}
